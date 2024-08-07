@@ -61,7 +61,7 @@ canvas.create_text(
     anchor="nw",
     text="Bluewave Adventures Intranet\n\nKIRJAUDU SISAAN",
     fill="#000000",
-    font=("Inter ExtraBold", 16 * -1)
+    font=("Inter ExtraBold", 18 * -1)
 )
 
 canvas.create_text(
