@@ -30,8 +30,8 @@ window.configure(bg = "#FFFFFF")
 canvas = Canvas(
     window,
     bg = "#FFFFFF",
-    height = 400,
-    width = 600,
+    height = 600,
+    width = 800,
     bd = 0,
     highlightthickness = 0,
     relief = "ridge"
