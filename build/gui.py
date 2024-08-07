@@ -23,7 +23,7 @@ def relative_to_assets(path: str) -> Path:
 
 window = Tk()
 
-window.geometry("600x400")
+window.geometry("800x600")
 window.configure(bg = "#FFFFFF")
 
 
@@ -41,8 +41,8 @@ canvas.place(x = 0, y = 0)
 canvas.create_rectangle(
     300.0,
     0.0,
+    800.0,
     600.0,
-    400.0,
     fill="#8BC9E0",
     outline="")
 
