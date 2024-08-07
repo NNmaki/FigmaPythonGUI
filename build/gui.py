@@ -11,8 +11,11 @@ from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
 
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"/home/nn/projects/FigmaPythonGUI/build/assets/frame0")
+ASSETS_PATH = OUTPUT_PATH / Path("assets/frame0/")
+# ^^ Uusi korjattu rivi / Relative path
 
+# ASSETS_PATH = OUTPUT_PATH / Path(r"/home/nn/projects/FigmaPythonGUI/build/assets/frame0")
+# ^^ Alkuperainen kaantajan polku
 
 def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
