@@ -1,5 +1,5 @@
 
-![cover_956x956](https://github.com/user-attachments/assets/85d20f1a-a4c3-49be-8cd2-db7b00a14c5f)
+![cover_956x956_new](https://github.com/user-attachments/assets/6a26a834-dee0-4b4f-841b-81e49924959b)
 
 # Figma GUI to Python code (with Tkinter Designer -tool)
 
