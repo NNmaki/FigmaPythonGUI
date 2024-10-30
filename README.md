@@ -28,3 +28,15 @@ Tkinter designer tool: https://github.com/ParthJadhav/Tkinter-Designer
 9. Enjoy the result. 🙂
 
 ## 🥅 Screenshots
+
+<table>
+  <tr>
+    <td>
+      <img src="assets/image1.jpg" alt="Project 1" width="300" />
+    </td>
+    <td>
+      <img src="assets/image2.jpg" alt="Project 2" width="300" />
+    </td>
+  </tr>
+</table>
+
