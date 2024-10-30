@@ -1,4 +1,6 @@
 
+![cover_956x956](https://github.com/user-attachments/assets/85d20f1a-a4c3-49be-8cd2-db7b00a14c5f)
+
 # Figma GUI to Python code (with Tkinter Designer -tool)
 
 ## 📌 Description 
