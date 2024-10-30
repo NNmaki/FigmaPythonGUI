@@ -32,11 +32,32 @@ Tkinter designer tool: https://github.com/ParthJadhav/Tkinter-Designer
 <table>
   <tr>
     <td>
-      <img src="assets/image1.jpg" alt="Project 1" width="300" />
+      <img src="assets/image2.jpg" alt="Project 1" width="300" />
     </td>
     <td>
-      <img src="assets/image2.jpg" alt="Project 2" width="300" />
+      <img src="assets/image3.jpg" alt="Project 2" width="300" />
     </td>
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="assets/image5.jpg" alt="Project 1" width="300" />
+    </td>
+    <td>
+      <img src="assets/image6.jpg" alt="Project 2" width="300" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="assets/image7.jpg" alt="Project 1" width="300" />
+    </td>
+    <td>
+      <img src="assets/image8.jpg" alt="Project 2" width="300" />
+    </td>
+  </tr>
+</table>
